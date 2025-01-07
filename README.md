@@ -1,6 +1,7 @@
 # FineTunningLLMs
 
 learnings about Lora Qlora promptuning
+last walal check karna hai lora mai
 
 
 LINKS 
